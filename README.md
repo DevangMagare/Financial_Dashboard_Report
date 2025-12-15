@@ -1,4 +1,4 @@
-# Finanical_Dashboard_Report
+# Financial_Dashboard_Report
 
 # 📊 Financial Dashboard Report (Power BI)
 
