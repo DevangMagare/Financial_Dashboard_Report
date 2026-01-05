@@ -11,6 +11,7 @@ The dashboard is designed as a single-page executive report that combines key pe
 Dashboard Components
 
 1. Key Performance Indicators (KPIs)
+
 The dashboard highlights the following core financial KPIs at the top level:
 🔹Total Revenue: Represents the overall revenue generated during the selected period
 
@@ -21,7 +22,8 @@ The dashboard highlights the following core financial KPIs at the top level:
 🔹Net Cash Position: Shows the net liquidity position derived from cash inflows and outflows
 These KPIs provide a quick summary of financial performance and are dynamically updated based on slicer selections.
 
-3. Analytical Visualizations
+2. Analytical Visualizations
+
 The dashboard includes the following visuals to support detailed financial analysis:
 
 🔹Revenue and Profit 
@@ -40,6 +42,7 @@ Segments outstanding receivables into aging buckets (0–30 days and 31–60 day
 Illustrates month-wise net cash movement, clearly highlighting periods of positive and negative cash flow.
 
 3. Interactive Filtering (Slicers)
+
 The dashboard supports dynamic analysis through the following slicers:
 
 Product / Service
